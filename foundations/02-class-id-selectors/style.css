@@ -1,0 +1,16 @@
+.basic {
+  background-color: rgb(255, 140, 140);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.basic#three {
+  font-size: 24px;
+}
+#two {
+  color: blue;
+  font-size: 36px;
+}
+#four {
+  background-color: rgb(89, 173, 110);
+  font-size: 24px;
+  font-weight: bold;
+}
