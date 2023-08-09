@@ -14,19 +14,13 @@ img {
   margin-bottom: 32px;
 }
 
-.plant_img {
+.container {
   display: flex;
   justify-content: space-evenly;
   gap: 52px;
 }
 
-.plant_txt {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.text {
-  text-align: center;
+.info {
   width: 200px;
 }
 
